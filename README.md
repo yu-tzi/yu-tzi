@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😀 I'm a front-end web developer specialize in JavaScript, React and Tailwind CSS
+😀 I'm a front-end web developer specialize in JavaScript, React and Tailwind CSS  
 💛 With a special love for sharing my learning journey through blog posts
 
 [![Kikis LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yutziluo?utm_source=share&utm_campaign=share_via&utm_content=profile)
