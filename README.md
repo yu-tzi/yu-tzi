@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+😀 I'm a front-end web developer with a special love for sharing my learning journey through blog posts.  
+💛 Feel free to drop by my blog ➡️ https://dev.to/yutzi
+
+![https://www.linkedin.com/in/yutziluo](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
 <!--
 **yu-tzi/yu-tzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
