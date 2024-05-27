@@ -4,7 +4,7 @@
 💛 With a special love for sharing my learning journey through blog posts
 
 [![Kikis LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yutziluo?utm_source=share&utm_campaign=share_via&utm_content=profile)
-[[!Kikis medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zoeluoluo05673)
+[![Kikis medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zoeluoluo05673)
 [![Kikis dev.to](https://img.shields.io/badge/DEV-757575?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yutzi)
 
 <!--
